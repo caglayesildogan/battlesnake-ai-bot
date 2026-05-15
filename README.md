@@ -63,7 +63,7 @@ Start the Battlesnake
 main.py
 ```
 
-Die funktionierende URL unserer Schlange ist wie folgt:
+The working URL for our snake is as follows:
 
 https://763dd6aa-1260-4428-8b34-04e2145edb2d-00-3lw55kw01ihn2.sisko.replit.dev/
 
